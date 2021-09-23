@@ -1,0 +1,6 @@
+1. How to get a setting from appsettings.json and what interface to use ?
+2. What is the importance of constructor in ApplicationDbContext class ?
+3. (Maybe a question to ask my mentor) Where exactly should I install Ef core and it's references(in 
+   Data assembly where I work with DbContext or Data assembly and also web project ? What should be startup project ?
+   It worked when I installed Efcore.SqlServer, Efcore.Tools, EfCore.Design in both data and web projects and set 
+   the web project as startup project.

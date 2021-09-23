@@ -1,0 +1,8 @@
+﻿@page
+@model ListModel
+@foreach(var restaurant in Model.restaurants)
+            {
+                <h1>@restaurant.Name</h1>
+                <h1>@restaurant.Location</h1>
+            }
+
